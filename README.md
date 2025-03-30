@@ -49,6 +49,7 @@ Change file `.env.development` to your own setting or create a `.env.local` file
 VITE_APP_TITLE=YOUR_APP_NAME
 VITE_APP_LOGO_URL=https://cdn.vuetifyjs.com/docs/images/brand-kit/v-logo.svg
 VITE_API_BASE_URL=YOUR_API_BASE_URL
+DEV_SERVER_PORT=3333
 ```
 
 ## Make sure your api is implemented with following endpoints
