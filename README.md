@@ -43,7 +43,7 @@ bun run build
 
 ## Setup default Environment variables
 
-Change file `.env.development` to your own setting or create a `.env.local` file to override it.
+Change file `.env.development` to your own setting or create a `.env.development.local` file to override it.
 
 ```sh
 VITE_APP_TITLE=YOUR_APP_NAME
